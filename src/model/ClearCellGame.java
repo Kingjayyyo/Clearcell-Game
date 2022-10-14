@@ -7,7 +7,7 @@ import java.util.Random;
  * We define an empty cell as BoardCell.EMPTY. An empty row is defined as one
  * where every cell corresponds to BoardCell.EMPTY.
  * 
- * @author Department of Computer Science, UMCP
+ * @author Jesuseyi Oyeyemi
  */
 
 public class ClearCellGame extends Game {
