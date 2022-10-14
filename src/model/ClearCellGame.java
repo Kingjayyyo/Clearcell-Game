@@ -145,7 +145,6 @@ public class ClearCellGame extends Game {
 								break;
 						}
 					}
-					// stopped here
 				}
 				for (int i = rowIndex; i > 0; i--) {
 					for (int j = colIndex; j < this.getMaxCols(); j++) {
