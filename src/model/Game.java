@@ -7,7 +7,7 @@ import java.awt.Color;
  * step of the game animation. The board can also be updated by selecting a
  * board cell.
  * 
- * @author Department of Computer Science, UMCP
+ * @author Jesuseyi Oyeyemi
  */
 
 public abstract class Game {
